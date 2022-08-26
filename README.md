@@ -1,1 +1,2 @@
 # GESTURE-CONTROL-ROBOT-USING-IMAGE-PROCESSING
+This project is a real time monitoring system by which humans interact with robots through gestures. By giving commands to a wireless robot, the user can control or navigate the robot using gestures of his/her palm, thereby interacting with the robotic system. Using Image processing, the command signals which are generated from these gestures are then passed to the robot to navigate it in the specified direction
